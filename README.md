@@ -1,5 +1,5 @@
 ### Hi I'm Ela ! 👋
-👨‍💻 I am a Software Engineer I'm sharing my learnings here</br>
+👨‍💻 I am a Software Engineer I'm sharing my learnings & Projects here</br>
 👨‍🎓 Studied Computer Application @ Sastra University Thanjavur </br>
 🚀 Currently I'm learning about Full Stack Development </br>
 
