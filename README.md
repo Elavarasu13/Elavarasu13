@@ -1,7 +1,7 @@
 ### Hi I'm Ela ! 👋
 👨‍💻 Enthusiast Software Engineer, I share my learnings & Projects here</br>
-👨‍🎓 Studied Computer Application @ Sastra University Thanjavur </br>
-🚀 Currently I'm learning about Full Stack Development </br>
+👨‍🎓 Former Sastriate > Studied Masters {MCA} @ Sastra University Thanjavur </br>
+🚀 Primarly a Full Stack Developer using tech stack --> MERN</br>
 
 
 ## 🌐 Socials:
